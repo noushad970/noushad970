@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noushad970" alt="noushad970" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/noushad_bhuiyan" target="blank"><img src="https://img.shields.io/twitter/follow/noushad_bhuiyan?logo=twitter&style=for-the-badge" alt="noushad_bhuiyan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bhuiyan_noushad" target="blank"><img src="https://img.shields.io/twitter/follow/noushad_bhuiyan?logo=twitter&style=for-the-badge" alt="noushad_bhuiyan" /></a> </p>
 
 - 🔭 I’m currently working on **Game Development**
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/noushad_bhuiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noushad_bhuiyan" height="30" width="40" /></a>
+<a href="https://twitter.com/bhuiyan_noushad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noushad_bhuiyan" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/md-noushad-a966a8278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-noushad-a966a8278" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mdamir.khan.7587370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdamir.khan.7587370" height="30" width="40" /></a>
 <a href="https://instagram.com/noushad_bhuiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/noushad_bhuiyan" height="30" width="40" /></a>
