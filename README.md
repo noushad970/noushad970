@@ -15,7 +15,7 @@
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="80" height="80" />
   </div>
 
-<h3 align="center">A beginner frontend and backend developer from Bangladesh</h3>
+<h3 align="center">An intermediate frontend and backend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noushad970&label=Profile%20views&color=0e75b6&style=flat" alt="noushad970" /> </p>
