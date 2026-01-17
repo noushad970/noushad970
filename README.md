@@ -28,7 +28,7 @@
 
 - 🌱 I’m currently learning **App Developing, Problem Solving**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/cse.pstu.ac.bd/noushad97](https://sites.google.com/cse.pstu.ac.bd/noushad97)
+- 👨‍💻 All of my projects are available at [https://sites.google.com/cse.pstu.ac.bd/noushad97](https://noushad970.github.io/Portfolio-Website/)
 
 - 📫 How to reach me **ug2102038@cse.pstu.ac.bd**
 
