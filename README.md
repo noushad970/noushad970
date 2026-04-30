@@ -2,8 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+I'm+Md+Noushad+Bhuiyan" alt="Noushad" /></a>
 </h3>
 <div>
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="80" height="80" /> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="80" height="80" />
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon"width="80" height="80" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="80" height="80" />
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="80" height="80" />
