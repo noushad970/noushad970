@@ -1,54 +1,135 @@
-<h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+I'm+Md+Noushad+Bhuiyan" alt="Noushad" /></a>
-</h3>
-<div>
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="80" height="80" /> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon"width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="80" height="80" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="80" height="80" />
-</div>
-<br>
-<div>
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="80" height="80" />
-  </div>
-
-<h3 align="center">An intermediate frontend and backend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noushad970&label=Profile%20views&color=0e75b6&style=flat" alt="noushad970" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noushad970" alt="noushad970" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/bhuiyan_noushad" target="blank"><img src="https://img.shields.io/twitter/follow/noushad_bhuiyan?logo=twitter&style=for-the-badge" alt="noushad_bhuiyan" /></a> </p>
-
-- 🔭 I’m currently working on **Game Development**
-
-- 🌱 I’m currently learning **App Developing, Problem Solving**
-
-- 👨‍💻 All of my projects are available at [NoushadPortofolio.com](https://noushad970.github.io/Portfolio-Website/)
-
-- 📫 How to reach me **ug2102038@cse.pstu.ac.bd**
-
-- ⚡ Fun fact **I am little bit funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bhuiyan_noushad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noushad_bhuiyan" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/md-noushad-a966a8278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-noushad-a966a8278" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mdamir.khan.7587370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdamir.khan.7587370" height="30" width="40" /></a>
-<a href="https://instagram.com/noushad_bhuiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/noushad_bhuiyan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/deshbashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/deshbashi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/ug2102038" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ug2102038" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/noushad97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/noushad97" height="30" width="40" /></a>
+<!-- ================= HEADER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Md%20Noushad%20Bhuiyan&fontSize=42&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Game+Developer+(Unity);AI+%7C+ML+%7C+Deep+Learning+Enthusiast;Freelancer+on+Upwork;Building+Cool+Things+With+Code"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noushad970&show_icons=true&locale=en&layout=compact" alt="noushad970" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noushad970&show_icons=true&locale=en" alt="noushad970" /></p>
+<!-- ================= ABOUT ================= -->
+<img align="right" alt="coding" width="380" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noushad970&" alt="noushad970" /></p>
+### 👨‍💻 About Me
+- 🎮 Building **Games with Unity (C#)**
+- 🤖 Exploring **AI, Machine Learning & Deep Learning**
+- 🌐 Full Stack Developer (Frontend + Backend)
+- 💼 Freelancer on **Upwork**
+- ⚡ Fun fact: *I debug faster at night 🌙*
+
+---
+
+### 🚀 Current Focus
+- 🔥 Game Mechanics & Multiplayer Systems  
+- 🤖 AI Models & Smart Applications  
+- 📱 Cross-platform App Development  
+
+---
+
+### 🌐 Portfolio
+🔗 https://noushad970.github.io/Portfolio-Website/
+
+---
+
+### 📬 Contact
+📧 **bmdnoushad@gmail.com**
+
+---
+
+<!-- ================= SOCIAL ================= -->
+### 🤝 Connect With Me
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~0193bcc1ac56d08c40">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/bhuiyan_noushad">
+    <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-noushad-a966a8278">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/noushad_bhuiyan">
+    <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/c/deshbashi">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/noushad97">
+    <img src="https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/ug2102038">
+    <img src="https://img.shields.io/badge/HackerRank-2ec866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- ================= TECH STACK ================= -->
+### ⚙️ Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,react,mysql,unity,flutter,dart,android,git,github" />
+</p>
+
+---
+
+### 🧠 AI / ML / DL Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ScikitLearn-f7931e?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+---
+
+<!-- ================= STATS ================= -->
+### 📊 GitHub Analytics
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=noushad970&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noushad970&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=noushad970&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<!-- ================= ACTIVITY GRAPH ================= -->
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noushad970&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+<!-- ================= SNAKE ================= -->
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/noushad970/noushad970/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<!-- ================= TROPHIES ================= -->
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=noushad970&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+<!-- ================= VISITOR ================= -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=noushad970&label=Profile%20Views&color=00F7FF&style=flat"/>
+</p>
+
+---
+
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=140&section=footer"/>
+</p>
